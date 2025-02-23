@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dcc8e9d274882d4ca0001c51b1593c5, type: 3}
+  m_Name: DefaultOutlineDefinition
+  m_EditorClassIdentifier: 
+  outlineMaterial: {fileID: -876546973899608171, guid: d0bbbd41421b3134aa29e3bc7caf036b, type: 3}
+  infillMaterial: {fileID: -876546973899608171, guid: fa76c88bac391f349a2159446fe79c2b, type: 3}
+  outlineWidth: 5
+  useSceneDepthForOcclusion: 1

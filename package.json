@@ -1,0 +1,21 @@
+{
+  "name": "com.ehlib.outline",
+  "version": "0.1.0",
+  "displayName": "Per-Object Screen Space Outline For URP",
+  "description": "A simple outline effect for objects in screen space for the Universal Render Pipeline.",
+  "unity": "6000.1",
+  "dependencies": {
+    "com.unity.shadergraph": "17.0.0",
+    "com.unity.render-pipelines.universal": "17.0.0",
+    "com.unity.render-pipelines.core": "17.0.0"
+  },
+  "keywords": [
+    "outline",
+    "urp",
+    "shadergraph"
+  ],
+  "author": {
+    "name": "Joshua Stevenson",
+    "email": "JoshuaStevenson97@gmail.com"
+  }
+}
